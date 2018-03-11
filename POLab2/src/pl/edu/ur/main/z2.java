@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Adrian Heycaj
+ * @author Adrian Hrycaj
  */
 public class z2 {
     public static void main(String[] args) {

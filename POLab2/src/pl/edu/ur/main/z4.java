@@ -10,7 +10,7 @@ import sun.net.www.content.audio.x_aiff;
 
 /**
  *
- * @author Adrian Heycaj
+ * @author Adrian Hrycaj
  */
 public class z4 {
     public static void main(String[] args) {
